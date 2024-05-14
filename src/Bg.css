@@ -1,0 +1,25 @@
+.bg_general{
+    border: 1px solid black;
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 130px;
+    border-radius: 20px;
+    background-color: #222A34;
+    box-shadow: 1px 1px 10px #045ac4;
+    position: relative;
+}
+
+.close_img{
+    position: absolute;
+    top: 21px;
+    left: 21px;
+}
+
+.title{
+    color: white;
+    font-size: 20px;
+    text-align: right;
+    margin-top: 16px;
+    margin-right: 16px;
+}
